@@ -30,3 +30,18 @@
   <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=00FF00"/></a>
   <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=00FF00"/></a>
 </div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
+<div align="center">
+  <br>
+  <code>$ whoami</code>
+  <br><br>
+  <i>> Developer | Student | Hacker wannabe</i>
+  <br>
+  <i>> Building cool stuff with code</i>
+</div>
