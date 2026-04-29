@@ -17,9 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+
 
 
 <div align="center">
@@ -32,10 +30,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 
 <div align="center">
   <br>
@@ -44,4 +38,8 @@
   <i>> Developer | Student | Hacker wannabe</i>
   <br>
   <i>> Building cool stuff with code</i>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
