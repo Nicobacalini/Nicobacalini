@@ -13,16 +13,3 @@
 </div>
 
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nicobacalini&show_icons=true&theme=matrix&hide_border=true" alt="Estadísticas de GitHub" />
-</div>
-
-
-<a href="URL_DE_TU_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_DEL_REPO&theme=matrix&hide_border=true" />
-</a>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=matrix&hide_border=true" />
-</div>
