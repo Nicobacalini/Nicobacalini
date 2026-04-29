@@ -14,6 +14,5 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00" alt="GitHub Streak"/>
 </div>
