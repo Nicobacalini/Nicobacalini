@@ -4,15 +4,25 @@
 
 <div align="center">
   <br>
+  <code><img height="28" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00"></code>
   <code><img height="28" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00"></code>
+  <code><img height="28" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00FF00"></code>
   <code><img height="28" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"></code>
-  <code><img height="28" src="https://img.shields.io/badge/x86_Assembly-000000?style=for-the-badge&logo=nasm&logoColor=00FF00"></code>
-  <code><img height="28" src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF00"></code>
   <code><img height="28" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00"></code>
+  <code><img height="28" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00"></code>
 </div>
 
 
 <div align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=nicobacalini&show_icons=true&theme=matrix&hide_border=true" alt="Estadísticas de GitHub" />
+</div>
+
+
+<a href="URL_DE_TU_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_DEL_REPO&theme=matrix&hide_border=true" />
+</a>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=matrix&hide_border=true" />
 </div>
