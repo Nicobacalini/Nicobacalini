@@ -20,3 +20,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+
+<div align="center">
+  <br>
+  <code>$ cat contact.txt</code>
+  <br><br>
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=00FF00"/></a>
+  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=00FF00"/></a>
+  <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=00FF00"/></a>
+</div>
