@@ -4,6 +4,21 @@
 
 <div align="center">
   <br>
+  <code>$ whoami</code>
+  <br><br>
+  <i>> Developer | Student | Hacker wannabe</i>
+  <br>
+  <i>> Building cool stuff with code</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&color=00FF00&style=flat&label=ACCESOS" alt="Profile views"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <br>
   <code><img height="28" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00"></code>
   <code><img height="28" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00"></code>
   <code><img height="28" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00FF00"></code>
@@ -12,13 +27,18 @@
   <code><img height="28" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00"></code>
 </div>
 
-
 <div align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
   <br>
@@ -27,19 +47,4 @@
   <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=00FF00"/></a>
   <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=00FF00"/></a>
   <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=00FF00"/></a>
-</div>
-
-
-
-<div align="center">
-  <br>
-  <code>$ whoami</code>
-  <br><br>
-  <i>> Developer | Student | Hacker wannabe</i>
-  <br>
-  <i>> Building cool stuff with code</i>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
