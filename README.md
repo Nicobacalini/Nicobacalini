@@ -10,7 +10,7 @@
   <br>
   <i>> Building cool stuff with code</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&color=00FF00&style=flat&label=ACCESOS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nicobacalini&color=00FF00&style=flat&label=ACCESOS" alt="Profile views"/>
 </div>
 
 <div align="center">
