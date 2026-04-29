@@ -49,12 +49,3 @@
   <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=00FF00"/></a>
 </div>
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&color=00FF00&style=flat&label=ACCESOS" alt="Profile views"/>
-</div>
