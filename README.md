@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicobacalini&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
