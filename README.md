@@ -16,19 +16,17 @@
 </div>
 <div align="center">
   <br>
-  <code><img height="28" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00"></code>
   <code><img height="28" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00"></code>
   <code><img height="28" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00FF00"></code>
   <code><img height="28" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"></code>
   <code><img height="28" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00"></code>
   <code><img height="28" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00"></code>
 </div>
+
+<br><br>
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicobacalini&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00" alt="GitHub Streak"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicobacalini&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicobacalini&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00&ring_color=00FF00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicobacalini&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00"/>
 </div>
 <div align="center">
   <br>
@@ -39,9 +37,15 @@
 </div>
 <div align="center">
   <br>
-  <code>$ cat contact.txt</code>
+  <code>$ echo "Thanks for stopping by!"</code>
+  <br><br>
+  <i>> Let's build something awesome together 🚀</i>
+</div>
+<div align="center">
+  <br>
   <br><br>
   <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=00FF00"/></a>
-  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=00FF00"/></a>
+  <a href="mailto:nicobacalini@email.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=00FF00"/></a>
   <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=00FF00"/></a>
 </div>
+
