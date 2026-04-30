@@ -48,3 +48,9 @@
   <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=00FF00"/></a>
   <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=00FF00"/></a>
 </div>
+
+
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/Nicobacalini/Nicobacalini/output/github-snake-dark.svg" alt="Snake Animation" />
+</div>
