@@ -6,7 +6,7 @@
   <br>
   <code>$ whoami</code>
   <br><br>
-  <i>> Systems Analyst & Software Developer </i>
+  <i>> Nicolas Bacalini | Systems Analyst & Software Developer </i>
   <br>
   <i>> Specialized in Backend Architecture, Low-Level Programming & Data Handling</i>
   <br><br>
@@ -19,29 +19,50 @@
 
 <div align="center">
   <br>
-  <code>$ cat tech_stack.json</code>
-  <br><br>
-  <code><img height="28" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=4495f3"></code>
-  <code><img height="28" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=4495f3"></code>
-  <code><img height="28" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=4495f3"></code>
-  <code><img height="28" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=4495f3"></code>
-  <code><img height="28" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4495f3"></code>
+  <p align="left" style="width: 600px; margin: auto;">
+    🎓 Completando la carrera de <b>Analista de Sistemas</b>.<br>
+    🔭 Desarrollando plataformas SaaS (FastAPI + React) y herramientas de análisis de datos.<br>
+    ⚙️ Explorando <i>reverse engineering</i>, desarrollo a bajo nivel y prototipado con ESP32/Arduino.<br>
+  </p>
 </div>
 
 <br>
 
 <div align="center">
   <br>
-  <code>$ ls -l /current_focus</code>
+  <code>$ cat skills.json</code>
   <br><br>
-  <i>🏨 Building scalable SaaS platforms (FastAPI + React)</i><br>
-  <i>⚙️ Hardware prototyping & Embedded Systems </i><br>
-  <i>📊 Data analysis pipelines & Backend optimization</i>
+  
+  <p align="center"><b>Backend & Data</b></p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=go,py,fastapi,postgres" alt="Backend and Data Skills" />
+    </a>
+  </p>
+
+  <p align="center"><b>Low-Level & Hardware</b></p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,c,arduino,linux" alt="Low Level and Hardware Skills" />
+    </a>
+  </p>
+
+ <p align="center"><b>Frontend</b></p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend Skills" />
+    </a>
+  </p>
+
+  <p align="center"><b>Tools</b></p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,bash,linux" alt="Tools Skills" />
+    </a>
+  </p>
 </div>
 
 <br>
-
-
 
 <div align="center">
   <br>
@@ -65,5 +86,5 @@
   <!-- RECUERDA CAMBIAR ESTOS ENLACES POR LOS TUYOS -->
   <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=4495f3"/></a>
   <a href="mailto:nicobacalini@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=4495f3"/></a>
-  <a href="https://TU_PORTFOLIO.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=4495f3"/></a>
+  <a href="https://portafolio-git-main-nicobacalinis-projects.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=4495f3"/></a>
 </div>
