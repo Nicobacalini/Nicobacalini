@@ -48,3 +48,4 @@
   <a href="mailto:nicobacalini@email.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=4495f3"/></a>
   <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=4495f3"/></a>
 </div>
+<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nicobacalini&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4495F3&icon_color=4495F3&text_color=c9d1d9&ring_color=4495F3"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicobacalini&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4495F3&text_color=c9d1d9"/> </div> <br> <div align="center"> <img src="https://raw.githubusercontent.com/Nicobacalini/Nicobacalini/output/github-snake-dark.svg" alt="Snake Animation" /> </div> <br>
