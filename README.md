@@ -35,7 +35,7 @@
   <code>$ ls -l /current_focus</code>
   <br><br>
   <i>🏨 Building scalable SaaS platforms (FastAPI + React)</i><br>
-  <i>⚙️ Hardware prototyping & Embedded Systems (ESP32)</i><br>
+  <i>⚙️ Hardware prototyping & Embedded Systems </i><br>
   <i>📊 Data analysis pipelines & Backend optimization</i>
 </div>
 
