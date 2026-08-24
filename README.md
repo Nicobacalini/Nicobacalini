@@ -39,12 +39,9 @@
   <i>📊 Data analysis pipelines & Backend optimization</i>
 </div>
 
-<br><br>
+<br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicobacalini&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=4495f3&icon_color=4495f3&text_color=4495f3&ring_color=4495f3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicobacalini&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=4495f3&text_color=4495f3"/>
-</div>
+
 
 <div align="center">
   <br>
