@@ -20,7 +20,6 @@
 <div align="center">
   <br>
   <p align="left" style="width: 600px; margin: auto;">
-    🎓 Completando la carrera de <b>Analista de Sistemas</b>.<br>
     🔭 Desarrollando plataformas SaaS (FastAPI + React) y herramientas de análisis de datos.<br>
     ⚙️ Explorando <i>reverse engineering</i>, desarrollo a bajo nivel y prototipado con ESP32/Arduino.<br>
   </p>
