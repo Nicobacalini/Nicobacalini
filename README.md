@@ -46,7 +46,7 @@
   <p align="center"><b>Tools</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes, cmake, bash,linux" alt="Tools and Infrastructure Skills" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,cmake,bash,linux" alt="Tools and Infrastructure Skills" />
     </a>
   </p>
 </div>
