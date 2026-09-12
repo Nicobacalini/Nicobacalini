@@ -25,7 +25,7 @@
   <p align="center"><b>Backend & Data</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=go,py,fastapi,postgres" alt="Backend and Data Skills" />
+      <img src="https://skillicons.dev/icons?i=rust,c,arduino" alt="Low-Level & Systems Skills" />
     </a>
   </p>
 
