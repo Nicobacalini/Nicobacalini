@@ -32,7 +32,7 @@
   <p align="center"><b>Low-Level & Hardware</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,rust,cpp,arduino" alt="Low Level and Hardware Skills" />
+      <img src="https://skillicons.dev/icons?i=rust,cpp,arduino" alt="Low Level and Hardware Skills" />
     </a>
   </p>
 
