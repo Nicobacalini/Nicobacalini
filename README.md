@@ -63,11 +63,10 @@
   <p align="center"><b>Tools</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github" alt="Tools Skills" />
+      <img src="https://skillicons.dev" alt="Tools Skills" />
     </a>
   </p>
 </div>
-
 <br>
 
 <div align="center">
