@@ -25,14 +25,14 @@
   <p align="center"><b>Backend & Data</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,c,arduino" alt="Low-Level & Systems Skills" />
+      <img src="https://skillicons.dev/icons?i=go,py,fastapi,postgres,redis" alt="Backend and Data Skills" />
     </a>
   </p>
 
   <p align="center"><b>Low-Level & Hardware</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,rust,arduino" alt="Low Level and Hardware Skills" />
+      <img src="https://skillicons.dev/icons?i=c,rust,cpp,arduino" alt="Low Level and Hardware Skills" />
     </a>
   </p>
 
