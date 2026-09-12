@@ -27,46 +27,7 @@
 
 <br>
 
-<div align="center">
-  <br>
-  <code>$ cat skills.json</code>
-  <br><br>
-  
-  <p align="center"><b>Backend & Data</b></p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev" alt="Backend and Data Skills" />
-    </a>
-  </p>
-
-  <p align="center"><b>DevOps & Infrastructure</b></p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev" alt="DevOps and Infrastructure Skills" />
-    </a>
-  </p>
-
-  <p align="center"><b>Low-Level & Hardware</b></p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev" alt="Low Level and Hardware Skills" />
-    </a>
-  </p>
-
-  <p align="center"><b>Frontend</b></p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev" alt="Frontend Skills" />
-    </a>
-  </p>
-
-  <p align="center"><b>Tools</b></p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev" alt="Tools Skills" />
-    </a>
-  </p>
-</div>
+<div align="center"> <br> <code>$ cat skills.json</code> <br><br> <p align="center"><b>Backend & Data</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=go,py,fastapi,postgres" alt="Backend and Data Skills" /> </a> </p> <p align="center"><b>Low-Level & Hardware</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=rust,c,arduino" alt="Low Level and Hardware Skills" /> </a> </p> <p align="center"><b>Frontend</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend Skills" /> </a> </p> <p align="center"><b>Tools</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,bash,linux" alt="Tools Skills" /> </a> </p></div>
 <br>
 
 <div align="center">
