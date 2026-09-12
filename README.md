@@ -39,7 +39,7 @@
   <p align="center"><b>Frontend</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend Skills" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend Skills" />
     </a>
   </p>
 
