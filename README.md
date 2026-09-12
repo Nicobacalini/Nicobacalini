@@ -19,19 +19,9 @@
 
 <div align="center">
   <br>
-  <p align="left" style="width: 600px; margin: auto;">
-    🔭 Desarrollando plataformas SaaS (FastAPI + React) y herramientas de análisis de datos.<br>
-    ⚙️ Explorando <i>reverse engineering</i>, desarrollo a bajo nivel y prototipado con ESP32/Arduino.<br>
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <br>
   <code>$ cat skills.json</code>
   <br><br>
-  
+
   <p align="center"><b>Backend & Data</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -62,9 +52,7 @@
 
   <p align="center"><b>Tools</b></p>
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github" alt="Tools Skills" />
-    </a>
+    <a href="https://skillicons.dev/icons?i=git,github" alt="Tools Skills" />
   </p>
 </div>
 <br>
