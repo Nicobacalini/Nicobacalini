@@ -32,21 +32,21 @@
   <p align="center"><b>Low-Level & Hardware</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,c,arduino" alt="Low Level and Hardware Skills" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,arduino" alt="Low Level and Hardware Skills" />
     </a>
   </p>
 
   <p align="center"><b>Frontend</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend Skills" />
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind" alt="Frontend Skills" />
     </a>
   </p>
 
   <p align="center"><b>Tools</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,bash,linux" alt="Tools Skills" />
+      <img src="https://skillicons.dev/icons?i=git,docker,bash,linux" alt="Tools Skills" />
     </a>
   </p>
 </div>
