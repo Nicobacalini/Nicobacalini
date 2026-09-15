@@ -8,7 +8,7 @@
   <br><br>
   <i>> Nicolas Bacalini | Systems Analyst & Software Developer </i>
   <br>
-  <i>> Specialized in Backend Architecture, Low-Level Programming & Data Handling</i>
+  <i>> Backend Architecture, Low-Level Programming & Data Handling</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=nicobacalini&color=4495f3&style=flat&label=ACCESOS" alt="Profile views"/>
 </div>
