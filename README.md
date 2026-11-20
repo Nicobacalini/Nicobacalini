@@ -66,9 +66,4 @@
 </div>
 
 <div align="center">
-  <br><br>
-  <!-- RECUERDA CAMBIAR ESTOS ENLACES POR LOS TUYOS -->
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=4495f3"/></a>
-  <a href="mailto:nicobacalini@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=4495f3"/></a>
-  <a href="https://portafolio-git-main-nicobacalinis-projects.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=4495f3"/></a>
 </div>
