@@ -63,12 +63,9 @@
 <div align="center">
   <br>
   <code>$ echo "Thanks for stopping by!"</code>
-  <br><br>
-  <i>> Let's build something awesome together 🚀</i>
 </div>
 
 <div align="center">
-  <br>
   <br><br>
   <!-- RECUERDA CAMBIAR ESTOS ENLACES POR LOS TUYOS -->
   <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=4495f3"/></a>
