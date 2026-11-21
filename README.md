@@ -14,16 +14,15 @@
 
 <br />
 
-### About Me
 
-> *"Nothing is free and magic doesn't exist: every abstraction is paid for in CPU, memory, or complexity. Everything has a reason, and our greatest tool is the curiosity to open the black box and understand what's really happening under the hood."*
 
 Systems Analyst & Software Developer specializing in **backend architecture**, **systems programming**, and **embedded development**. Driven by understanding how things work from bare metal to the cloud.
 
 - **Backend & Data:** Scalable APIs and distributed services.
 - **Systems & Low-Level:** Efficient, memory-safe software.
 - **Hardware & Embedded:** Electronic prototyping and firmware.
-
+<br />
+> *"Nothing is free and magic doesn't exist: every abstraction is paid for in CPU, memory, or complexity. Everything has a reason, and our greatest tool is the curiosity to open the black box and understand what's really happening under the hood."*
 ---
 
 ### Tech Stack
