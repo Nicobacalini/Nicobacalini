@@ -16,11 +16,13 @@
 
 ### About Me
 
-Systems Analyst & Software Developer focused on building **reliable backend services**, **high-performance low-level software**, and **embedded hardware solutions**. I enjoy working close to the metal just as much as architecting clean, scalable APIs.
+> *"Nothing is free and magic doesn't exist: every abstraction is paid for in CPU, memory, or complexity. Everything has a reason, and our greatest tool is the curiosity to open the black box and understand what's really happening under the hood."*
 
-- **Backend & Data:** Designing APIs, microservices, and data pipelines with **Go**, **Python (FastAPI)**, **PostgreSQL**, and **Redis**.
-- **Systems Programming:** Writing memory-safe, performance-critical tools in **Rust** and **C++** on **Linux**.
-- **Embedded & Hardware:** Prototyping with microcontrollers, **Arduino**, and custom hardware integrations.
+Systems Analyst & Software Developer specializing in **backend architecture**, **systems programming**, and **embedded development**. Driven by understanding how things work from bare metal to the cloud.
+
+- **Backend & Data:** Scalable APIs and distributed services.
+- **Systems & Low-Level:** Efficient, memory-safe software.
+- **Hardware & Embedded:** Electronic prototyping and firmware.
 
 ---
 
@@ -30,10 +32,4 @@ Systems Analyst & Software Developer focused on building **reliable backend serv
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,go,cpp,py,fastapi,postgres,redis,arduino,react,ts,tailwind,docker,cmake,bash,linux&perline=15" height="36" alt="Tech Stack" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nicobacalini/Nicobacalini/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
