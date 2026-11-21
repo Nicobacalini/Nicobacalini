@@ -14,7 +14,7 @@ Systems Analyst & Software Developer specializing in **backend architecture**, *
 
 <br />
 
-> *"Curiosity is the driving force that leads us to lift the hood and see how things really work."*
+> *"Curiosity is what drives us to look under the hood and see how things really work."*
 
 ---
 
