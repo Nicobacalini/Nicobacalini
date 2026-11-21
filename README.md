@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4495f3&center=true&vCenter=true&width=600&lines=%3E+gcc+-o+dreams+life.c;%3E+./dreams;%3E+Compiling+ideas...;%3E+Running+on+caffeine." alt="Terminal animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4495f3&center=true&vCenter=true&width=600&lines=%3E+cargo+build+--release;%3E+cargo+run;%3E+Compiling+ideas...;%3E+Running+on+caffeine." alt="Terminal animada" />
 </div>
 
 <div align="center">
