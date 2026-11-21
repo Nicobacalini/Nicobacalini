@@ -1,6 +1,8 @@
 <div align="center">
   <img src="./assets/banner.svg" alt="Nicolas Bacalini Banner" width="100%" />
-  <br /><br />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=4495F3&center=true&vCenter=true&width=520&height=36&lines=%3E+cargo+build+--release;%3E+cargo+run;%3E+Compiling+ideas...;%3E+Running+on+caffeine." alt="Terminal animada" />
+  <br />
   <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -30,6 +32,8 @@ Systems Analyst & Software Developer focused on building **reliable backend serv
   </a>
 </div>
 
----
+<br />
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nicobacalini/Nicobacalini/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
