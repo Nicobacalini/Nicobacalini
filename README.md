@@ -1,34 +1,68 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Nicolas Bacalini Banner" width="100%" />
-  <br /><br />
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=4495f3" alt="Email" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4495f3&center=true&vCenter=true&width=600&lines=%3E+cargo+build+--release;%3E+cargo+run;%3E+Compiling+ideas...;%3E+Running+on+caffeine." alt="Terminal animada" />
 </div>
 
-### About
-- **Backend & Data:** Building APIs and services with **Go**, **Python (FastAPI)**, **PostgreSQL**, and **Redis**.
-- **Systems & Low-Level:** Exploring performance-oriented development with **Rust**, **C++**, and **Linux**.
-- **Hardware:** Tinkering with microcontrollers, **Arduino**, and embedded prototyping.
-
-### Featured Projects
-- **[Nombre del Proyecto 1](https://github.com/Nicobacalini/repo-1)** — Breve descripción de 1 línea sobre qué resuelve *(Rust / Linux)*.
-- **[Nombre del Proyecto 2](https://github.com/Nicobacalini/repo-2)** — Breve descripción de 1 línea sobre qué resuelve *(Go / PostgreSQL)*.
-- **[Nombre del Proyecto 3](https://github.com/Nicobacalini/repo-3)** — Breve descripción de 1 línea sobre qué resuelve *(C++ / Arduino)*.
-
----
-
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <br>
+  <code>$ whoami</code>
+  <br><br>
+  <i>> Nicolas Bacalini | Systems Analyst & Software Developer </i>
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=nicobacalini&color=4495f3&style=flat&label=ACCESOS" alt="Profile views"/>
 </div>
 
-<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,cpp,py,fastapi,postgres,redis,arduino,react,ts,tailwind,docker,cmake,bash,linux&perline=15" height="36" alt="Tech Stack" />
-  </a>
+  <br>
+  <code>$ cat skills.json</code>
+  <br><br>
+
+  <p align="center"><b>Backend & Data</b></p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=go,py,fastapi,postgres,redis" alt="Backend and Data Skills" />
+    </a>
+  </p>
+
+  <p align="center"><b>Low-Level & Hardware</b></p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=rust,cpp,arduino" alt="Low Level and Hardware Skills" />
+    </a>
+  </p>
+
+  <p align="center"><b>Frontend</b></p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind" alt="Frontend Skills" />
+    </a>
+  </p>
+
+  <p align="center"><b>Tools</b></p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,cmake,bash,linux" alt="Tools and Infrastructure Skills" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/Nicobacalini/Nicobacalini/output/github-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <br>
+  <code>$ echo "Thanks for stopping by!"</code>
+</div>
+
+<div align="center">
 </div>
