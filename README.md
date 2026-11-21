@@ -23,11 +23,14 @@ Systems Analyst & Software Developer specializing in **backend architecture**, *
     <img src="https://skillicons.dev/icons?i=rust,go,cpp,py,fastapi,postgres,redis,arduino,react,ts,tailwind,docker,cmake,bash,linux&perline=15" height="36" alt="Tech Stack" />
   </a>
   <br /><br />
+</div>
+
+<div align="center">
   <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn" />
+    <img src="./assets/btn-linkedin.svg" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nicobacalini@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="28" alt="Email" />
+    <img src="./assets/btn-email.svg" alt="Email" />
   </a>
 </div>
