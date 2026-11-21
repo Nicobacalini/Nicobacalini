@@ -27,10 +27,10 @@ Systems Analyst & Software Developer specializing in **backend architecture**, *
 
 <div align="center">
   <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="./assets/btn-linkedin.svg" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=4495F3" height="28" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nicobacalini@gmail.com">
-    <img src="./assets/btn-email.svg" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=4495F3" height="28" alt="Email" />
   </a>
 </div>
