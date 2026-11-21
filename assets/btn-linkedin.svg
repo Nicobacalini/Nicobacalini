@@ -1,0 +1,8 @@
+<svg width="116" height="32" viewBox="0 0 116 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="115" height="31" rx="6" fill="#0D1117" stroke="#21262D" />
+  <rect x="13" y="9" width="14" height="14" rx="2.5" stroke="#4495F3" stroke-width="1.6" />
+  <circle cx="16.8" cy="13" r="1" fill="#4495F3" />
+  <path d="M16.8 15.2V19.5" stroke="#4495F3" stroke-width="1.6" stroke-linecap="round" />
+  <path d="M19.8 19.5V16.8C19.8 15.7 20.5 15.1 21.4 15.1C22.3 15.1 23 15.7 23 16.8V19.5" stroke="#4495F3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="35" y="20.5" fill="#C9D1D9" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="500">LinkedIn</text>
+</svg>
