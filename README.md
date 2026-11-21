@@ -14,7 +14,7 @@ Systems Analyst & Software Developer specializing in **backend architecture**, *
 
 <br />
 
-> *"Nothing is free and magic doesn't exist: every abstraction is paid for in CPU, memory, or complexity. Everything has a reason, and our greatest tool is the curiosity to open the black box and understand what's really happening under the hood."*
+> *"Curiosity is the driving force that leads us to lift the hood and see how things really work."*
 
 ---
 
