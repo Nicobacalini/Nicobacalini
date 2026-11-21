@@ -20,8 +20,7 @@
 ---
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nicobacalini&show_icons=true&bg_color=0d1117&title_color=4495f3&icon_color=4495f3&text_color=c9d1d9&border_color=21262d&border_radius=8" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicobacalini&layout=compact&langs_count=4&hide=html,css,scss,javascript,typescript,jupyter%20notebook,shell,dockerfile,cmake,makefile&bg_color=0d1117&title_color=4495f3&text_color=c9d1d9&border_color=21262d&border_radius=8" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Nicobacalini/Nicobacalini/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br />
