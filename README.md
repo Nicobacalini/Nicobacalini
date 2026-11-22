@@ -6,7 +6,8 @@
 
 <br />
 
-Systems Analyst & Software Developer specializing in **backend architecture**, **systems programming**, and **embedded development**. Driven by understanding how things work from bare metal to the cloud.
+Systems Analyst & Software Developer specializing in backend architecture, systems programming, and embedded development. Driven by understanding how things work from hardware to the cloud.
+
 
 - **Backend & Data:** Scalable APIs and distributed services.
 - **Systems & Low-Level:** Efficient, memory-safe software.
