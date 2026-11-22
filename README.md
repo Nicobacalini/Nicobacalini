@@ -10,8 +10,7 @@ Systems Analyst & Software Developer specializing in **backend architecture**, *
 
 - **Backend & Data:** Scalable APIs and distributed services.
 - **Systems & Low-Level:** Efficient, memory-safe software.
-- **Hardware & Embedded:** Electronic prototyping and firmware.
-
+- **Hardware & Embedded:** Exploring firmware development with Arduino and ESP32.
 <br />
 
 > *"Curiosity is what drives us to look under the hood and see how things really work."*
